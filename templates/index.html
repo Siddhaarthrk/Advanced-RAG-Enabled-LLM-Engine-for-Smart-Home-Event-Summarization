@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Home System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7fc;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            padding: 20px;
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        #query-form {
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        #question {
+            width: 80%;
+            max-width: 600px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+        }
+
+        #query-form input[type="submit"] {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        #query-form input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        #results {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 80%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #loading {
+            text-align: center;
+            display: none;
+        }
+
+        .spinner {
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #3498db;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Smart Home System</h1>
+    <form id="query-form">
+        <label for="question">Enter your question:</label><br>
+        <input type="text" id="question" name="question" required placeholder="Ask something about your smart home..."><br><br>
+        <input type="submit" value="Submit">
+    </form>
+    <div id="loading">
+        <div class="spinner"></div>
+        <p>Loading...</p>
+    </div>
+    <div id="results"></div>
+
+    <script>
+        document.getElementById('query-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const question = document.getElementById('question').value;
+
+            // Show the loading indicator
+            document.getElementById('loading').style.display = 'block';
+
+            fetch('/process_query', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams({ 'question': question })
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Hide the loading indicator
+                document.getElementById('loading').style.display = 'none';
+
+                const resultsDiv = document.getElementById('results');
+                
+                let subQuestionsHTML = '<strong>Sub-Questions Generated and Results:</strong><ul>';
+                for (const [subQuestion, result] of Object.entries(data.sql_queries)) {
+                    subQuestionsHTML += `<li><strong>${subQuestion}</strong>: ${result}</li>`;
+                }
+                subQuestionsHTML += '</ul>';
+
+                resultsDiv.innerHTML = `
+                    ${subQuestionsHTML}
+                    <div><strong>Vector Insights:</strong> ${data.vector_insights.join('<br>')}</div>
+                    <div><strong>Final Summary:</strong> ${data.final_summary}</div>
+                `;
+            })
+            .catch(error => {
+                // Hide the loading indicator in case of error
+                document.getElementById('loading').style.display = 'none';
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>
