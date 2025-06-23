@@ -112,4 +112,4 @@ The project requires the following Python packages:
 * `sentence-transformers` (for embedding models)
 * `flask` (for the web API)
 
-
+## Sample Output and Workflow of this Project is included in this Repo as Sample IO and Worflow docx
