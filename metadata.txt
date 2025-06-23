@@ -1,0 +1,312 @@
+In January 2015, the TV was used for an average of 3.6 hours per day consuming approximately 177.5 kWh of energy  The most-played platform was Netflix, while the least-played platform was YouTube.
+In January 2015, the ac consumed approximately 97.1 kWh of energy and operated for an average of 6.3 hours per day.
+In January 2015, the Oven consumed approximately 190.6 kWh of energy and operated for an average of 7.8 hours per day.
+In January 2015, the Fan consumed approximately 70.8 kWh of energy and operated for an average of 6.1 hours per day.
+In January 2015, the Light consumed approximately 61.9 kWh of energy and operated for an average of 5.4 hours per day.
+In January 2015, the Washing Machine consumed approximately 134.2 kWh of energy and operated for an average of 3.6 hours per day.
+In January 2015, Room1 had an average brightness of 44.8%, ranging from 31.6% to 59.9%. Humidity levels averaged 40.5%, with a range from 26.3% to 56.7%. Temperatures averaged 22.8�C, varying from 18.8�C to 27.7�C.
+In January 2015, Room2 had an average brightness of 61.9%, ranging from 45.1% to 80.9%. Humidity levels averaged 41.2%, with a range from 27.7% to 51.6%. Temperatures averaged 23.9�C, varying from 21.6�C to 27.4�C.
+In January 2015, Room3 had an average brightness of 39.1%, ranging from 19.4% to 49.4%. Humidity levels averaged 40.1%, with a range from 28.3% to 56.1%. Temperatures averaged 23.4�C, varying from 20.8�C to 26.3�C.
+In January 2015, Kitchen had an average brightness of 61.4%, ranging from 50.9% to 77.2%. Humidity levels averaged 56.2%, with a range from 44.5% to 69.8%. Temperatures averaged 21.2�C, varying from 18.1�C to 23.5�C.
+In January 2015, Bathroom had an average brightness of 68.8%, ranging from 52.7% to 84.7%. Humidity levels averaged 57.5%, with a range from 39.9% to 68.2%. Temperatures averaged 24.4�C, varying from 21.3�C to 27.7�C.
+In January 2015, Toilet had an average brightness of 40.0%, ranging from 26.6% to 59.3%. Humidity levels averaged 47.2%, with a range from 34.6% to 64.0%. Temperatures averaged 21.0�C, varying from 16.9�C to 23.7�C.
+In February 2015, the TV was used for an average of 4.6 hours per day consuming approximately 121.6 kWh of energy  The most-played platform was Amazon Prime, while the least-played platform was Gaming.
+In February 2015, the ac consumed approximately 158.3 kWh of energy and operated for an average of 4.0 hours per day.
+In February 2015, the Oven consumed approximately 141.0 kWh of energy and operated for an average of 5.8 hours per day.
+In February 2015, the Fan consumed approximately 128.1 kWh of energy and operated for an average of 5.2 hours per day.
+In February 2015, the Light consumed approximately 139.9 kWh of energy and operated for an average of 6.7 hours per day.
+In February 2015, the Washing Machine consumed approximately 68.7 kWh of energy and operated for an average of 5.5 hours per day.
+In February 2015, Room1 had an average brightness of 35.7%, ranging from 21.2% to 48.7%. Humidity levels averaged 50.4%, with a range from 38.4% to 62.3%. Temperatures averaged 20.8�C, varying from 16.6�C to 25.1�C.
+In February 2015, Room2 had an average brightness of 59.1%, ranging from 46.1% to 77.5%. Humidity levels averaged 50.6%, with a range from 33.7% to 61.0%. Temperatures averaged 23.7�C, varying from 21.3�C to 26.3�C.
+In February 2015, Room3 had an average brightness of 60.8%, ranging from 48.4% to 77.5%. Humidity levels averaged 51.3%, with a range from 33.2% to 62.3%. Temperatures averaged 23.4�C, varying from 21.3�C to 25.9�C.
+In February 2015, Kitchen had an average brightness of 65.3%, ranging from 46.3% to 83.7%. Humidity levels averaged 41.3%, with a range from 26.1% to 56.3%. Temperatures averaged 21.3�C, varying from 18.4�C to 25.6�C.
+In February 2015, Bathroom had an average brightness of 41.9%, ranging from 26.5% to 58.3%. Humidity levels averaged 49.4%, with a range from 36.0% to 62.6%. Temperatures averaged 22.0�C, varying from 18.0�C to 25.1�C.
+In February 2015, Toilet had an average brightness of 35.4%, ranging from 24.1% to 52.9%. Humidity levels averaged 53.2%, with a range from 42.5% to 69.8%. Temperatures averaged 20.1�C, varying from 16.0�C to 23.2�C.
+In March 2015, the TV was used for an average of 3.1 hours per day consuming approximately 52.4 kWh of energy  The most-played platform was Netflix, while the least-played platform was Amazon Prime.
+In March 2015, the ac consumed approximately 176.0 kWh of energy and operated for an average of 6.1 hours per day.
+In March 2015, the Oven consumed approximately 190.9 kWh of energy and operated for an average of 7.8 hours per day.
+In March 2015, the Fan consumed approximately 181.3 kWh of energy and operated for an average of 4.8 hours per day.
+In March 2015, the Light consumed approximately 141.9 kWh of energy and operated for an average of 6.1 hours per day.
+In March 2015, the Washing Machine consumed approximately 140.2 kWh of energy and operated for an average of 6.5 hours per day.
+In March 2015, Room1 had an average brightness of 66.0%, ranging from 47.7% to 80.6%. Humidity levels averaged 52.8%, with a range from 34.7% to 63.1%. Temperatures averaged 24.9�C, varying from 21.1�C to 27.2�C.
+In March 2015, Room2 had an average brightness of 51.3%, ranging from 41.1% to 66.4%. Humidity levels averaged 48.3%, with a range from 32.9% to 61.2%. Temperatures averaged 21.0�C, varying from 18.8�C to 23.0�C.
+In March 2015, Room3 had an average brightness of 32.9%, ranging from 18.4% to 45.7%. Humidity levels averaged 58.0%, with a range from 39.6% to 68.5%. Temperatures averaged 22.6�C, varying from 19.8�C to 24.9�C.
+In March 2015, Kitchen had an average brightness of 58.2%, ranging from 39.8% to 73.0%. Humidity levels averaged 50.9%, with a range from 32.0% to 62.6%. Temperatures averaged 21.2�C, varying from 18.8�C to 25.0�C.
+In March 2015, Bathroom had an average brightness of 47.0%, ranging from 32.3% to 66.4%. Humidity levels averaged 46.3%, with a range from 33.6% to 60.6%. Temperatures averaged 20.5�C, varying from 17.1�C to 24.4�C.
+In March 2015, Toilet had an average brightness of 48.1%, ranging from 28.6% to 76.4%. Humidity levels averaged 55.8%, with a range from 42.8% to 80.0%. Temperatures averaged 20.8�C, varying from 15.9�C to 29.9�C.
+In April 2015, the TV was used for an average of 4.0 hours per day consuming approximately 94.5 kWh of energy  The most-played platform was Netflix, while the least-played platform was YouTube.
+In April 2015, the ac consumed approximately 113.1 kWh of energy and operated for an average of 3.4 hours per day.
+In April 2015, the Oven consumed approximately 135.3 kWh of energy and operated for an average of 3.6 hours per day.
+In April 2015, the Fan consumed approximately 168.1 kWh of energy and operated for an average of 6.2 hours per day.
+In April 2015, the Light consumed approximately 112.4 kWh of energy and operated for an average of 5.7 hours per day.
+In April 2015, the Washing Machine consumed approximately 168.3 kWh of energy and operated for an average of 5.1 hours per day.
+In April 2015, Room1 had an average brightness of 34.4%, ranging from 15.7% to 47.5%. Humidity levels averaged 55.6%, with a range from 39.3% to 73.3%. Temperatures averaged 23.5�C, varying from 20.9�C to 25.8�C.
+In April 2015, Room2 had an average brightness of 64.0%, ranging from 52.7% to 78.6%. Humidity levels averaged 44.5%, with a range from 33.3% to 62.8%. Temperatures averaged 23.3�C, varying from 21.3�C to 27.5�C.
+In April 2015, Room3 had an average brightness of 51.7%, ranging from 36.0% to 65.8%. Humidity levels averaged 44.3%, with a range from 25.7% to 58.3%. Temperatures averaged 23.9�C, varying from 21.7�C to 28.3�C.
+In April 2015, Kitchen had an average brightness of 33.3%, ranging from 17.9% to 45.1%. Humidity levels averaged 42.2%, with a range from 25.8% to 56.9%. Temperatures averaged 23.3�C, varying from 19.7�C to 27.0�C.
+In April 2015, Bathroom had an average brightness of 67.2%, ranging from 53.7% to 79.9%. Humidity levels averaged 46.5%, with a range from 30.1% to 61.9%. Temperatures averaged 24.3�C, varying from 20.3�C to 28.4�C.
+In April 2015, Toilet had an average brightness of 49.8%, ranging from 32.1% to 79.9%. Humidity levels averaged 54.7%, with a range from 42.6% to 89.2%. Temperatures averaged 20.1�C, varying from 17.7�C to 27.2�C.
+In May 2015, the TV was used for an average of 4.5 hours per day consuming approximately 139.3 kWh of energy  The most-played platform was Amazon Prime, while the least-played platform was YouTube.
+In May 2015, the ac consumed approximately 173.8 kWh of energy and operated for an average of 5.6 hours per day.
+In May 2015, the Oven consumed approximately 53.3 kWh of energy and operated for an average of 5.9 hours per day.
+In May 2015, the Fan consumed approximately 177.7 kWh of energy and operated for an average of 4.9 hours per day.
+In May 2015, the Light consumed approximately 137.3 kWh of energy and operated for an average of 4.0 hours per day.
+In May 2015, the Washing Machine consumed approximately 177.7 kWh of energy and operated for an average of 3.0 hours per day.
+In May 2015, Room1 had an average brightness of 54.1%, ranging from 34.3% to 65.3%. Humidity levels averaged 43.6%, with a range from 27.5% to 63.6%. Temperatures averaged 20.3�C, varying from 18.2�C to 22.7�C.
+In May 2015, Room2 had an average brightness of 67.9%, ranging from 48.4% to 81.8%. Humidity levels averaged 59.1%, with a range from 44.5% to 74.7%. Temperatures averaged 20.8�C, varying from 16.3�C to 23.9�C.
+In May 2015, Room3 had an average brightness of 52.8%, ranging from 41.3% to 84.5%. Humidity levels averaged 48.9%, with a range from 35.4% to 76.6%. Temperatures averaged 20.0�C, varying from 15.8�C to 24.9�C.
+In May 2015, Kitchen had an average brightness of 46.1%, ranging from 33.2% to 61.5%. Humidity levels averaged 51.8%, with a range from 41.7% to 62.9%. Temperatures averaged 25.0�C, varying from 22.3�C to 28.4�C.
+In May 2015, Bathroom had an average brightness of 54.5%, ranging from 35.4% to 65.4%. Humidity levels averaged 50.3%, with a range from 34.2% to 68.2%. Temperatures averaged 20.5�C, varying from 17.0�C to 25.0�C.
+In May 2015, Toilet had an average brightness of 30.3%, ranging from 15.4% to 61.2%. Humidity levels averaged 43.6%, with a range from 25.9% to 80.2%. Temperatures averaged 22.6�C, varying from 19.2�C to 28.1�C.
+In June 2015, the TV was used for an average of 3.5 hours per day consuming approximately 104.5 kWh of energy  The most-played platform was Hulu, while the least-played platform was Netflix.
+In June 2015, the ac consumed approximately 111.1 kWh of energy and operated for an average of 3.1 hours per day.
+In June 2015, the Oven consumed approximately 56.5 kWh of energy and operated for an average of 3.8 hours per day.
+In June 2015, the Fan consumed approximately 198.2 kWh of energy and operated for an average of 5.4 hours per day.
+In June 2015, the Light consumed approximately 65.1 kWh of energy and operated for an average of 5.6 hours per day.
+In June 2015, the Washing Machine consumed approximately 140.9 kWh of energy and operated for an average of 5.5 hours per day.
+In June 2015, Room1 had an average brightness of 54.7%, ranging from 37.4% to 65.2%. Humidity levels averaged 44.8%, with a range from 32.3% to 59.7%. Temperatures averaged 20.7�C, varying from 18.1�C to 25.1�C.
+In June 2015, Room2 had an average brightness of 40.3%, ranging from 25.2% to 52.0%. Humidity levels averaged 41.0%, with a range from 25.6% to 52.7%. Temperatures averaged 24.4�C, varying from 21.2�C to 27.1�C.
+In June 2015, Room3 had an average brightness of 66.6%, ranging from 55.9% to 85.3%. Humidity levels averaged 44.3%, with a range from 28.0% to 60.3%. Temperatures averaged 20.1�C, varying from 17.4�C to 23.1�C.
+In June 2015, Kitchen had an average brightness of 66.8%, ranging from 51.8% to 79.7%. Humidity levels averaged 52.6%, with a range from 35.6% to 64.9%. Temperatures averaged 22.3�C, varying from 20.2�C to 24.4�C.
+In June 2015, Bathroom had an average brightness of 68.9%, ranging from 51.5% to 81.7%. Humidity levels averaged 47.1%, with a range from 28.2% to 58.7%. Temperatures averaged 21.5�C, varying from 16.6�C to 25.5�C.
+In June 2015, Toilet had an average brightness of 47.4%, ranging from 34.2% to 64.8%. Humidity levels averaged 40.0%, with a range from 23.5% to 53.2%. Temperatures averaged 23.8�C, varying from 20.9�C to 27.1�C.
+In July 2015, the TV was used for an average of 3.2 hours per day consuming approximately 77.1 kWh of energy  The most-played platform was Gaming, while the least-played platform was Netflix.
+In July 2015, the ac consumed approximately 129.3 kWh of energy and operated for an average of 4.9 hours per day.
+In July 2015, the Oven consumed approximately 65.6 kWh of energy and operated for an average of 6.2 hours per day.
+In July 2015, the Fan consumed approximately 127.1 kWh of energy and operated for an average of 7.1 hours per day.
+In July 2015, the Light consumed approximately 133.6 kWh of energy and operated for an average of 3.1 hours per day.
+In July 2015, the Washing Machine consumed approximately 156.8 kWh of energy and operated for an average of 6.3 hours per day.
+In July 2015, Room1 had an average brightness of 41.7%, ranging from 23.7% to 55.7%. Humidity levels averaged 44.9%, with a range from 26.1% to 63.0%. Temperatures averaged 20.7�C, varying from 17.7�C to 25.4�C.
+In July 2015, Room2 had an average brightness of 66.1%, ranging from 46.5% to 84.9%. Humidity levels averaged 49.5%, with a range from 34.0% to 63.0%. Temperatures averaged 21.3�C, varying from 18.2�C to 25.1�C.
+In July 2015, Room3 had an average brightness of 60.4%, ranging from 50.1% to 73.0%. Humidity levels averaged 59.8%, with a range from 44.5% to 70.3%. Temperatures averaged 24.7�C, varying from 21.6�C to 28.4�C.
+In July 2015, Kitchen had an average brightness of 47.5%, ranging from 35.3% to 61.1%. Humidity levels averaged 40.2%, with a range from 25.3% to 51.1%. Temperatures averaged 24.7�C, varying from 21.6�C to 28.5�C.
+In July 2015, Bathroom had an average brightness of 52.4%, ranging from 34.6% to 81.3%. Humidity levels averaged 55.7%, with a range from 43.6% to 76.0%. Temperatures averaged 23.4�C, varying from 18.5�C to 29.3�C.
+In July 2015, Toilet had an average brightness of 37.0%, ranging from 18.0% to 75.6%. Humidity levels averaged 53.5%, with a range from 36.0% to 80.8%. Temperatures averaged 20.4�C, varying from 16.2�C to 27.4�C.
+In August 2015, the TV was used for an average of 3.5 hours per day consuming approximately 81.4 kWh of energy  The most-played platform was Netflix, while the least-played platform was Amazon Prime.
+In August 2015, the ac consumed approximately 92.4 kWh of energy and operated for an average of 5.8 hours per day.
+In August 2015, the Oven consumed approximately 192.8 kWh of energy and operated for an average of 5.9 hours per day.
+In August 2015, the Fan consumed approximately 186.4 kWh of energy and operated for an average of 3.8 hours per day.
+In August 2015, the Light consumed approximately 62.2 kWh of energy and operated for an average of 3.2 hours per day.
+In August 2015, the Washing Machine consumed approximately 138.4 kWh of energy and operated for an average of 3.5 hours per day.
+In August 2015, Room1 had an average brightness of 61.4%, ranging from 42.1% to 72.8%. Humidity levels averaged 59.6%, with a range from 41.2% to 78.9%. Temperatures averaged 22.0�C, varying from 17.9�C to 25.8�C.
+In August 2015, Room2 had an average brightness of 51.8%, ranging from 33.4% to 62.6%. Humidity levels averaged 44.2%, with a range from 31.2% to 57.0%. Temperatures averaged 24.4�C, varying from 22.3�C to 27.8�C.
+In August 2015, Room3 had an average brightness of 46.6%, ranging from 30.0% to 64.2%. Humidity levels averaged 53.4%, with a range from 36.0% to 70.2%. Temperatures averaged 23.0�C, varying from 19.2�C to 27.0�C.
+In August 2015, Kitchen had an average brightness of 41.5%, ranging from 23.8% to 56.1%. Humidity levels averaged 55.0%, with a range from 37.1% to 68.6%. Temperatures averaged 23.5�C, varying from 20.6�C to 26.7�C.
+In August 2015, Bathroom had an average brightness of 32.9%, ranging from 22.3% to 46.9%. Humidity levels averaged 45.0%, with a range from 31.2% to 64.8%. Temperatures averaged 20.1�C, varying from 16.9�C to 23.8�C.
+In August 2015, Toilet had an average brightness of 54.7%, ranging from 39.5% to 69.3%. Humidity levels averaged 44.2%, with a range from 28.3% to 60.3%. Temperatures averaged 22.6�C, varying from 19.8�C to 26.3�C.
+In September 2015, the TV was used for an average of 2.2 hours per day consuming approximately 57.5 kWh of energy  The most-played platform was YouTube, while the least-played platform was Gaming.
+In September 2015, the ac consumed approximately 106.3 kWh of energy and operated for an average of 4.3 hours per day.
+In September 2015, the Oven consumed approximately 75.5 kWh of energy and operated for an average of 4.9 hours per day.
+In September 2015, the Fan consumed approximately 147.1 kWh of energy and operated for an average of 5.0 hours per day.
+In September 2015, the Light consumed approximately 109.7 kWh of energy and operated for an average of 4.8 hours per day.
+In September 2015, the Washing Machine consumed approximately 184.6 kWh of energy and operated for an average of 3.7 hours per day.
+In September 2015, Room1 had an average brightness of 34.6%, ranging from 17.5% to 52.2%. Humidity levels averaged 57.2%, with a range from 39.6% to 72.5%. Temperatures averaged 20.2�C, varying from 15.8�C to 23.4�C.
+In September 2015, Room2 had an average brightness of 69.7%, ranging from 59.6% to 87.0%. Humidity levels averaged 59.1%, with a range from 48.1% to 73.0%. Temperatures averaged 20.7�C, varying from 16.1�C to 23.2�C.
+In September 2015, Room3 had an average brightness of 63.1%, ranging from 45.1% to 81.8%. Humidity levels averaged 49.5%, with a range from 37.2% to 65.1%. Temperatures averaged 23.9�C, varying from 19.6�C to 26.5�C.
+In September 2015, Kitchen had an average brightness of 51.1%, ranging from 32.4% to 71.0%. Humidity levels averaged 51.3%, with a range from 32.1% to 68.4%. Temperatures averaged 23.9�C, varying from 21.7�C to 27.1�C.
+In September 2015, Bathroom had an average brightness of 57.7%, ranging from 38.4% to 70.3%. Humidity levels averaged 42.1%, with a range from 28.8% to 55.0%. Temperatures averaged 20.1�C, varying from 17.8�C to 23.1�C.
+In September 2015, Toilet had an average brightness of 40.6%, ranging from 28.7% to 76.7%. Humidity levels averaged 50.7%, with a range from 33.2% to 85.8%. Temperatures averaged 24.0�C, varying from 21.6�C to 29.5�C.
+In October 2015, the TV was used for an average of 5.0 hours per day consuming approximately 120.0 kWh of energy  The most-played platform was Gaming, while the least-played platform was Hulu.
+In October 2015, the ac consumed approximately 124.4 kWh of energy and operated for an average of 7.3 hours per day.
+In October 2015, the Oven consumed approximately 134.2 kWh of energy and operated for an average of 6.4 hours per day.
+In October 2015, the Fan consumed approximately 52.7 kWh of energy and operated for an average of 3.0 hours per day.
+In October 2015, the Light consumed approximately 101.2 kWh of energy and operated for an average of 7.6 hours per day.
+In October 2015, the Washing Machine consumed approximately 68.5 kWh of energy and operated for an average of 6.6 hours per day.
+In October 2015, Room1 had an average brightness of 59.8%, ranging from 42.7% to 72.5%. Humidity levels averaged 44.5%, with a range from 26.6% to 56.0%. Temperatures averaged 22.1�C, varying from 18.5�C to 25.3�C.
+In October 2015, Room2 had an average brightness of 51.6%, ranging from 34.6% to 65.2%. Humidity levels averaged 48.3%, with a range from 36.5% to 64.8%. Temperatures averaged 21.2�C, varying from 18.3�C to 24.7�C.
+In October 2015, Room3 had an average brightness of 41.5%, ranging from 30.6% to 58.7%. Humidity levels averaged 42.4%, with a range from 28.6% to 59.8%. Temperatures averaged 22.0�C, varying from 17.1�C to 24.8�C.
+In October 2015, Kitchen had an average brightness of 44.2%, ranging from 28.3% to 61.0%. Humidity levels averaged 41.0%, with a range from 25.5% to 54.4%. Temperatures averaged 20.7�C, varying from 17.4�C to 25.1�C.
+In October 2015, Bathroom had an average brightness of 68.5%, ranging from 55.2% to 88.3%. Humidity levels averaged 56.8%, with a range from 41.2% to 66.9%. Temperatures averaged 23.2�C, varying from 18.4�C to 26.1�C.
+In October 2015, Toilet had an average brightness of 36.7%, ranging from 19.5% to 55.1%. Humidity levels averaged 41.6%, with a range from 25.6% to 53.8%. Temperatures averaged 22.0�C, varying from 18.8�C to 24.1�C.
+In November 2015, the TV was used for an average of 4.5 hours per day consuming approximately 179.2 kWh of energy  The most-played platform was Netflix, while the least-played platform was Hulu.
+In November 2015, the ac consumed approximately 122.9 kWh of energy and operated for an average of 4.2 hours per day.
+In November 2015, the Oven consumed approximately 90.3 kWh of energy and operated for an average of 4.4 hours per day.
+In November 2015, the Fan consumed approximately 149.2 kWh of energy and operated for an average of 7.1 hours per day.
+In November 2015, the Light consumed approximately 59.1 kWh of energy and operated for an average of 3.6 hours per day.
+In November 2015, the Washing Machine consumed approximately 119.1 kWh of energy and operated for an average of 7.2 hours per day.
+In November 2015, Room1 had an average brightness of 57.4%, ranging from 44.2% to 74.8%. Humidity levels averaged 55.4%, with a range from 45.3% to 71.8%. Temperatures averaged 23.8�C, varying from 20.4�C to 27.4�C.
+In November 2015, Room2 had an average brightness of 66.4%, ranging from 49.5% to 82.9%. Humidity levels averaged 43.3%, with a range from 24.9% to 62.9%. Temperatures averaged 20.9�C, varying from 18.1�C to 25.1�C.
+In November 2015, Room3 had an average brightness of 33.6%, ranging from 15.1% to 48.4%. Humidity levels averaged 56.2%, with a range from 38.9% to 67.2%. Temperatures averaged 24.2�C, varying from 19.6�C to 26.6�C.
+In November 2015, Kitchen had an average brightness of 57.1%, ranging from 38.9% to 74.0%. Humidity levels averaged 40.6%, with a range from 24.7% to 50.9%. Temperatures averaged 20.9�C, varying from 18.3�C to 23.3�C.
+In November 2015, Bathroom had an average brightness of 60.7%, ranging from 45.2% to 74.9%. Humidity levels averaged 54.7%, with a range from 42.9% to 69.9%. Temperatures averaged 21.7�C, varying from 18.4�C to 26.3�C.
+In November 2015, Toilet had an average brightness of 43.6%, ranging from 24.0% to 63.4%. Humidity levels averaged 52.7%, with a range from 37.1% to 63.0%. Temperatures averaged 22.9�C, varying from 19.2�C to 25.9�C.
+In December 2015, the TV was used for an average of 2.9 hours per day consuming approximately 90.6 kWh of energy  The most-played platform was Amazon Prime, while the least-played platform was Hulu.
+In December 2015, the ac consumed approximately 130.7 kWh of energy and operated for an average of 4.6 hours per day.
+In December 2015, the Oven consumed approximately 145.5 kWh of energy and operated for an average of 6.8 hours per day.
+In December 2015, the Fan consumed approximately 84.9 kWh of energy and operated for an average of 7.0 hours per day.
+In December 2015, the Light consumed approximately 100.7 kWh of energy and operated for an average of 4.7 hours per day.
+In December 2015, the Washing Machine consumed approximately 148.1 kWh of energy and operated for an average of 4.3 hours per day.
+In December 2015, Room1 had an average brightness of 31.8%, ranging from 18.6% to 46.1%. Humidity levels averaged 52.0%, with a range from 35.7% to 70.1%. Temperatures averaged 23.4�C, varying from 20.0�C to 25.6�C.
+In December 2015, Room2 had an average brightness of 44.7%, ranging from 33.4% to 56.2%. Humidity levels averaged 54.6%, with a range from 40.1% to 70.6%. Temperatures averaged 23.6�C, varying from 19.8�C to 27.7�C.
+In December 2015, Room3 had an average brightness of 34.9%, ranging from 24.1% to 50.1%. Humidity levels averaged 46.8%, with a range from 29.0% to 57.5%. Temperatures averaged 20.6�C, varying from 15.8�C to 24.7�C.
+In December 2015, Kitchen had an average brightness of 59.3%, ranging from 40.4% to 72.7%. Humidity levels averaged 51.6%, with a range from 39.5% to 62.1%. Temperatures averaged 24.1�C, varying from 19.9�C to 26.7�C.
+In December 2015, Bathroom had an average brightness of 30.3%, ranging from 15.6% to 43.0%. Humidity levels averaged 59.8%, with a range from 45.5% to 77.2%. Temperatures averaged 23.4�C, varying from 20.3�C to 27.4�C.
+In December 2015, Toilet had an average brightness of 58.5%, ranging from 45.2% to 78.4%. Humidity levels averaged 46.7%, with a range from 31.7% to 64.8%. Temperatures averaged 24.7�C, varying from 20.0�C to 28.9�C.
+In January 2016, the TV was used for an average of 2.1 hours per day consuming approximately 195.4 kWh of energy  The most-played platform was YouTube, while the least-played platform was Gaming.
+In January 2016, the ac consumed approximately 112.0 kWh of energy and operated for an average of 6.2 hours per day.
+In January 2016, the Oven consumed approximately 96.6 kWh of energy and operated for an average of 6.9 hours per day.
+In January 2016, the Fan consumed approximately 189.6 kWh of energy and operated for an average of 5.1 hours per day.
+In January 2016, the Light consumed approximately 158.2 kWh of energy and operated for an average of 6.2 hours per day.
+In January 2016, the Washing Machine consumed approximately 117.5 kWh of energy and operated for an average of 6.1 hours per day.
+In January 2016, Room1 had an average brightness of 51.9%, ranging from 38.1% to 66.1%. Humidity levels averaged 51.2%, with a range from 32.6% to 66.8%. Temperatures averaged 20.0�C, varying from 16.1�C to 24.6�C.
+In January 2016, Room2 had an average brightness of 52.1%, ranging from 40.7% to 67.2%. Humidity levels averaged 59.9%, with a range from 47.9% to 79.8%. Temperatures averaged 20.3�C, varying from 16.7�C to 25.2�C.
+In January 2016, Room3 had an average brightness of 43.1%, ranging from 32.6% to 57.3%. Humidity levels averaged 53.2%, with a range from 36.9% to 68.0%. Temperatures averaged 21.1�C, varying from 17.0�C to 26.1�C.
+In January 2016, Kitchen had an average brightness of 36.0%, ranging from 22.5% to 48.6%. Humidity levels averaged 54.6%, with a range from 39.8% to 74.5%. Temperatures averaged 24.1�C, varying from 20.0�C to 27.8�C.
+In January 2016, Bathroom had an average brightness of 38.7%, ranging from 28.7% to 52.1%. Humidity levels averaged 44.8%, with a range from 25.1% to 56.3%. Temperatures averaged 24.1�C, varying from 20.9�C to 28.8�C.
+In January 2016, Toilet had an average brightness of 44.8%, ranging from 27.1% to 57.6%. Humidity levels averaged 50.0%, with a range from 31.7% to 65.4%. Temperatures averaged 21.7�C, varying from 19.5�C to 26.7�C.
+In February 2016, the TV was used for an average of 4.2 hours per day consuming approximately 81.1 kWh of energy  The most-played platform was Netflix, while the least-played platform was Hulu.
+In February 2016, the ac consumed approximately 153.6 kWh of energy and operated for an average of 3.0 hours per day.
+In February 2016, the Oven consumed approximately 58.1 kWh of energy and operated for an average of 4.1 hours per day.
+In February 2016, the Fan consumed approximately 109.0 kWh of energy and operated for an average of 6.6 hours per day.
+In February 2016, the Light consumed approximately 187.4 kWh of energy and operated for an average of 4.3 hours per day.
+In February 2016, the Washing Machine consumed approximately 116.2 kWh of energy and operated for an average of 7.7 hours per day.
+In February 2016, Room1 had an average brightness of 34.9%, ranging from 22.8% to 51.1%. Humidity levels averaged 52.8%, with a range from 38.4% to 70.2%. Temperatures averaged 23.1�C, varying from 18.1�C to 25.9�C.
+In February 2016, Room2 had an average brightness of 49.0%, ranging from 29.3% to 61.6%. Humidity levels averaged 57.9%, with a range from 43.9% to 74.6%. Temperatures averaged 22.7�C, varying from 19.7�C to 27.1�C.
+In February 2016, Room3 had an average brightness of 59.5%, ranging from 42.4% to 77.6%. Humidity levels averaged 45.6%, with a range from 32.4% to 56.3%. Temperatures averaged 25.0�C, varying from 20.9�C to 28.2�C.
+In February 2016, Kitchen had an average brightness of 61.6%, ranging from 42.9% to 80.2%. Humidity levels averaged 41.2%, with a range from 29.7% to 57.3%. Temperatures averaged 20.6�C, varying from 16.9�C to 25.3�C.
+In February 2016, Bathroom had an average brightness of 31.4%, ranging from 12.1% to 64.0%. Humidity levels averaged 52.4%, with a range from 37.1% to 82.4%. Temperatures averaged 23.5�C, varying from 20.7�C to 29.5�C.
+In February 2016, Toilet had an average brightness of 61.5%, ranging from 45.3% to 81.4%. Humidity levels averaged 57.1%, with a range from 37.4% to 72.9%. Temperatures averaged 23.1�C, varying from 18.7�C to 25.7�C.
+In March 2016, the TV was used for an average of 2.2 hours per day consuming approximately 179.8 kWh of energy  The most-played platform was YouTube, while the least-played platform was Amazon Prime.
+In March 2016, the ac consumed approximately 193.0 kWh of energy and operated for an average of 6.0 hours per day.
+In March 2016, the Oven consumed approximately 161.0 kWh of energy and operated for an average of 7.5 hours per day.
+In March 2016, the Fan consumed approximately 70.9 kWh of energy and operated for an average of 6.4 hours per day.
+In March 2016, the Light consumed approximately 87.0 kWh of energy and operated for an average of 6.5 hours per day.
+In March 2016, the Washing Machine consumed approximately 82.3 kWh of energy and operated for an average of 6.7 hours per day.
+In March 2016, Room1 had an average brightness of 40.8%, ranging from 23.8% to 60.8%. Humidity levels averaged 45.2%, with a range from 31.4% to 61.4%. Temperatures averaged 20.5�C, varying from 17.2�C to 22.9�C.
+In March 2016, Room2 had an average brightness of 60.7%, ranging from 44.8% to 71.9%. Humidity levels averaged 40.3%, with a range from 25.4% to 57.5%. Temperatures averaged 21.9�C, varying from 19.8�C to 25.7�C.
+In March 2016, Room3 had an average brightness of 68.4%, ranging from 54.5% to 85.2%. Humidity levels averaged 41.8%, with a range from 22.0% to 60.0%. Temperatures averaged 24.3�C, varying from 20.6�C to 27.7�C.
+In March 2016, Kitchen had an average brightness of 57.4%, ranging from 41.0% to 74.8%. Humidity levels averaged 53.4%, with a range from 42.0% to 67.3%. Temperatures averaged 24.3�C, varying from 20.6�C to 26.8�C.
+In March 2016, Bathroom had an average brightness of 43.5%, ranging from 26.1% to 62.3%. Humidity levels averaged 53.0%, with a range from 34.1% to 71.6%. Temperatures averaged 21.3�C, varying from 19.1�C to 24.3�C.
+In March 2016, Toilet had an average brightness of 58.6%, ranging from 48.4% to 73.7%. Humidity levels averaged 45.1%, with a range from 25.4% to 63.0%. Temperatures averaged 22.6�C, varying from 19.6�C to 25.2�C.
+In April 2016, the TV was used for an average of 2.9 hours per day consuming approximately 104.5 kWh of energy  The most-played platform was Hulu, while the least-played platform was Amazon Prime.
+In April 2016, the ac consumed approximately 166.1 kWh of energy and operated for an average of 6.5 hours per day.
+In April 2016, the Oven consumed approximately 58.8 kWh of energy and operated for an average of 5.7 hours per day.
+In April 2016, the Fan consumed approximately 182.4 kWh of energy and operated for an average of 6.8 hours per day.
+In April 2016, the Light consumed approximately 151.9 kWh of energy and operated for an average of 3.4 hours per day.
+In April 2016, the Washing Machine consumed approximately 181.9 kWh of energy and operated for an average of 3.1 hours per day.
+In April 2016, Room1 had an average brightness of 43.6%, ranging from 28.9% to 59.0%. Humidity levels averaged 47.5%, with a range from 36.8% to 62.9%. Temperatures averaged 23.7�C, varying from 21.5�C to 27.4�C.
+In April 2016, Room2 had an average brightness of 52.9%, ranging from 39.5% to 85.9%. Humidity levels averaged 56.3%, with a range from 39.7% to 86.2%. Temperatures averaged 24.7�C, varying from 22.2�C to 31.2�C.
+In April 2016, Room3 had an average brightness of 36.6%, ranging from 21.9% to 49.1%. Humidity levels averaged 50.1%, with a range from 33.5% to 69.0%. Temperatures averaged 22.7�C, varying from 18.1�C to 25.6�C.
+In April 2016, Kitchen had an average brightness of 31.8%, ranging from 12.3% to 46.4%. Humidity levels averaged 47.8%, with a range from 31.4% to 58.2%. Temperatures averaged 20.9�C, varying from 16.3�C to 23.4�C.
+In April 2016, Bathroom had an average brightness of 37.3%, ranging from 18.5% to 57.0%. Humidity levels averaged 55.6%, with a range from 45.1% to 73.4%. Temperatures averaged 24.4�C, varying from 20.3�C to 28.6�C.
+In April 2016, Toilet had an average brightness of 51.7%, ranging from 38.4% to 62.5%. Humidity levels averaged 44.9%, with a range from 28.8% to 64.8%. Temperatures averaged 22.8�C, varying from 19.9�C to 26.2�C.
+In May 2016, the TV was used for an average of 2.1 hours per day consuming approximately 157.2 kWh of energy  The most-played platform was Amazon Prime, while the least-played platform was Hulu.
+In May 2016, the ac consumed approximately 188.7 kWh of energy and operated for an average of 5.6 hours per day.
+In May 2016, the Oven consumed approximately 56.4 kWh of energy and operated for an average of 3.4 hours per day.
+In May 2016, the Fan consumed approximately 92.7 kWh of energy and operated for an average of 6.1 hours per day.
+In May 2016, the Light consumed approximately 134.8 kWh of energy and operated for an average of 6.4 hours per day.
+In May 2016, the Washing Machine consumed approximately 74.9 kWh of energy and operated for an average of 6.4 hours per day.
+In May 2016, Room1 had an average brightness of 30.0%, ranging from 18.7% to 40.1%. Humidity levels averaged 44.0%, with a range from 32.7% to 56.8%. Temperatures averaged 24.4�C, varying from 22.0�C to 28.7�C.
+In May 2016, Room2 had an average brightness of 65.7%, ranging from 49.6% to 81.5%. Humidity levels averaged 44.7%, with a range from 32.9% to 59.5%. Temperatures averaged 22.4�C, varying from 20.3�C to 26.3�C.
+In May 2016, Room3 had an average brightness of 60.2%, ranging from 44.3% to 78.6%. Humidity levels averaged 56.5%, with a range from 43.8% to 76.0%. Temperatures averaged 21.0�C, varying from 16.3�C to 24.5�C.
+In May 2016, Kitchen had an average brightness of 43.5%, ranging from 25.0% to 62.1%. Humidity levels averaged 55.4%, with a range from 42.4% to 71.4%. Temperatures averaged 21.9�C, varying from 16.9�C to 26.8�C.
+In May 2016, Bathroom had an average brightness of 41.9%, ranging from 30.4% to 55.3%. Humidity levels averaged 48.2%, with a range from 29.1% to 60.5%. Temperatures averaged 24.3�C, varying from 22.2�C to 27.1�C.
+In May 2016, Toilet had an average brightness of 46.5%, ranging from 33.0% to 65.6%. Humidity levels averaged 51.6%, with a range from 32.2% to 66.2%. Temperatures averaged 24.3�C, varying from 21.5�C to 27.2�C.
+In June 2016, the TV was used for an average of 3.8 hours per day consuming approximately 66.1 kWh of energy  The most-played platform was Amazon Prime, while the least-played platform was Gaming.
+In June 2016, the ac consumed approximately 53.8 kWh of energy and operated for an average of 6.4 hours per day.
+In June 2016, the Oven consumed approximately 190.6 kWh of energy and operated for an average of 6.5 hours per day.
+In June 2016, the Fan consumed approximately 130.0 kWh of energy and operated for an average of 5.4 hours per day.
+In June 2016, the Light consumed approximately 99.8 kWh of energy and operated for an average of 7.7 hours per day.
+In June 2016, the Washing Machine consumed approximately 128.1 kWh of energy and operated for an average of 6.1 hours per day.
+In June 2016, Room1 had an average brightness of 38.8%, ranging from 27.0% to 76.0%. Humidity levels averaged 45.0%, with a range from 26.3% to 70.8%. Temperatures averaged 21.3�C, varying from 17.9�C to 28.7�C.
+In June 2016, Room2 had an average brightness of 56.1%, ranging from 44.0% to 70.0%. Humidity levels averaged 52.3%, with a range from 33.6% to 70.8%. Temperatures averaged 23.3�C, varying from 18.5�C to 28.2�C.
+In June 2016, Room3 had an average brightness of 58.5%, ranging from 40.5% to 71.7%. Humidity levels averaged 49.7%, with a range from 31.9% to 68.0%. Temperatures averaged 22.9�C, varying from 19.7�C to 25.5�C.
+In June 2016, Kitchen had an average brightness of 52.2%, ranging from 35.8% to 80.4%. Humidity levels averaged 43.7%, with a range from 30.2% to 70.1%. Temperatures averaged 24.7�C, varying from 22.2�C to 29.5�C.
+In June 2016, Bathroom had an average brightness of 38.2%, ranging from 23.3% to 57.7%. Humidity levels averaged 52.2%, with a range from 41.5% to 64.1%. Temperatures averaged 21.2�C, varying from 18.1�C to 24.6�C.
+In June 2016, Toilet had an average brightness of 46.3%, ranging from 35.2% to 57.0%. Humidity levels averaged 44.7%, with a range from 29.5% to 58.4%. Temperatures averaged 23.9�C, varying from 21.3�C to 27.8�C.
+In July 2016, the TV was used for an average of 3.5 hours per day consuming approximately 124.8 kWh of energy  The most-played platform was Gaming, while the least-played platform was Amazon Prime.
+In July 2016, the ac consumed approximately 66.4 kWh of energy and operated for an average of 7.0 hours per day.
+In July 2016, the Oven consumed approximately 177.4 kWh of energy and operated for an average of 7.9 hours per day.
+In July 2016, the Fan consumed approximately 179.3 kWh of energy and operated for an average of 4.1 hours per day.
+In July 2016, the Light consumed approximately 165.8 kWh of energy and operated for an average of 5.0 hours per day.
+In July 2016, the Washing Machine consumed approximately 192.9 kWh of energy and operated for an average of 7.2 hours per day.
+In July 2016, Room1 had an average brightness of 66.1%, ranging from 51.2% to 77.7%. Humidity levels averaged 43.4%, with a range from 32.8% to 61.8%. Temperatures averaged 21.3�C, varying from 16.7�C to 24.1�C.
+In July 2016, Room2 had an average brightness of 54.9%, ranging from 35.9% to 69.7%. Humidity levels averaged 44.7%, with a range from 31.1% to 60.7%. Temperatures averaged 23.8�C, varying from 19.9�C to 28.8�C.
+In July 2016, Room3 had an average brightness of 37.7%, ranging from 19.2% to 49.0%. Humidity levels averaged 55.2%, with a range from 39.1% to 71.2%. Temperatures averaged 20.5�C, varying from 16.8�C to 25.1�C.
+In July 2016, Kitchen had an average brightness of 35.2%, ranging from 17.5% to 52.2%. Humidity levels averaged 49.5%, with a range from 36.7% to 65.1%. Temperatures averaged 24.4�C, varying from 20.5�C to 28.6�C.
+In July 2016, Bathroom had an average brightness of 64.6%, ranging from 53.4% to 84.5%. Humidity levels averaged 57.9%, with a range from 41.1% to 68.2%. Temperatures averaged 24.8�C, varying from 21.9�C to 27.8�C.
+In July 2016, Toilet had an average brightness of 48.6%, ranging from 30.9% to 63.7%. Humidity levels averaged 59.7%, with a range from 42.3% to 74.7%. Temperatures averaged 21.9�C, varying from 18.5�C to 24.0�C.
+In August 2016, the TV was used for an average of 4.0 hours per day consuming approximately 50.2 kWh of energy  The most-played platform was Netflix, while the least-played platform was Amazon Prime.
+In August 2016, the ac consumed approximately 141.6 kWh of energy and operated for an average of 5.7 hours per day.
+In August 2016, the Oven consumed approximately 133.8 kWh of energy and operated for an average of 3.2 hours per day.
+In August 2016, the Fan consumed approximately 172.8 kWh of energy and operated for an average of 4.9 hours per day.
+In August 2016, the Light consumed approximately 140.6 kWh of energy and operated for an average of 7.7 hours per day.
+In August 2016, the Washing Machine consumed approximately 196.7 kWh of energy and operated for an average of 7.3 hours per day.
+In August 2016, Room1 had an average brightness of 60.0%, ranging from 44.2% to 89.2%. Humidity levels averaged 41.1%, with a range from 29.7% to 71.4%. Temperatures averaged 22.0�C, varying from 17.9�C to 26.9�C.
+In August 2016, Room2 had an average brightness of 63.4%, ranging from 43.5% to 76.5%. Humidity levels averaged 40.9%, with a range from 23.8% to 52.9%. Temperatures averaged 23.7�C, varying from 20.3�C to 26.2�C.
+In August 2016, Room3 had an average brightness of 57.9%, ranging from 38.9% to 72.1%. Humidity levels averaged 54.7%, with a range from 42.8% to 67.9%. Temperatures averaged 22.7�C, varying from 20.6�C to 26.4�C.
+In August 2016, Kitchen had an average brightness of 45.9%, ranging from 28.3% to 59.0%. Humidity levels averaged 47.9%, with a range from 30.6% to 67.2%. Temperatures averaged 24.6�C, varying from 22.4�C to 29.1�C.
+In August 2016, Bathroom had an average brightness of 53.9%, ranging from 41.4% to 73.4%. Humidity levels averaged 54.8%, with a range from 35.9% to 69.7%. Temperatures averaged 22.4�C, varying from 18.2�C to 25.4�C.
+In August 2016, Toilet had an average brightness of 62.6%, ranging from 47.6% to 74.6%. Humidity levels averaged 41.2%, with a range from 27.8% to 53.3%. Temperatures averaged 24.1�C, varying from 21.3�C to 26.9�C.
+In September 2016, the TV was used for an average of 2.6 hours per day consuming approximately 195.6 kWh of energy  The most-played platform was YouTube, while the least-played platform was Gaming.
+In September 2016, the ac consumed approximately 142.2 kWh of energy and operated for an average of 3.2 hours per day.
+In September 2016, the Oven consumed approximately 99.7 kWh of energy and operated for an average of 4.4 hours per day.
+In September 2016, the Fan consumed approximately 153.1 kWh of energy and operated for an average of 3.0 hours per day.
+In September 2016, the Light consumed approximately 120.0 kWh of energy and operated for an average of 7.8 hours per day.
+In September 2016, the Washing Machine consumed approximately 115.1 kWh of energy and operated for an average of 5.4 hours per day.
+In September 2016, Room1 had an average brightness of 52.1%, ranging from 40.2% to 70.2%. Humidity levels averaged 51.5%, with a range from 40.2% to 67.0%. Temperatures averaged 22.4�C, varying from 18.3�C to 25.2�C.
+In September 2016, Room2 had an average brightness of 46.1%, ranging from 30.2% to 65.1%. Humidity levels averaged 56.0%, with a range from 40.0% to 70.0%. Temperatures averaged 20.5�C, varying from 17.6�C to 25.0�C.
+In September 2016, Room3 had an average brightness of 59.7%, ranging from 43.3% to 78.9%. Humidity levels averaged 46.4%, with a range from 34.8% to 56.8%. Temperatures averaged 22.0�C, varying from 17.1�C to 24.8�C.
+In September 2016, Kitchen had an average brightness of 63.7%, ranging from 52.2% to 75.1%. Humidity levels averaged 41.3%, with a range from 27.8% to 59.3%. Temperatures averaged 20.5�C, varying from 16.1�C to 25.1�C.
+In September 2016, Bathroom had an average brightness of 62.2%, ranging from 49.1% to 78.6%. Humidity levels averaged 51.5%, with a range from 37.0% to 66.5%. Temperatures averaged 20.3�C, varying from 17.7�C to 23.3�C.
+In September 2016, Toilet had an average brightness of 44.7%, ranging from 29.4% to 63.5%. Humidity levels averaged 53.8%, with a range from 35.8% to 68.9%. Temperatures averaged 20.7�C, varying from 17.5�C to 24.0�C.
+In October 2016, the TV was used for an average of 4.5 hours per day consuming approximately 131.8 kWh of energy  The most-played platform was Amazon Prime, while the least-played platform was YouTube.
+In October 2016, the ac consumed approximately 51.1 kWh of energy and operated for an average of 3.4 hours per day.
+In October 2016, the Oven consumed approximately 187.9 kWh of energy and operated for an average of 6.4 hours per day.
+In October 2016, the Fan consumed approximately 183.8 kWh of energy and operated for an average of 4.4 hours per day.
+In October 2016, the Light consumed approximately 94.2 kWh of energy and operated for an average of 7.3 hours per day.
+In October 2016, the Washing Machine consumed approximately 142.4 kWh of energy and operated for an average of 6.4 hours per day.
+In October 2016, Room1 had an average brightness of 44.9%, ranging from 29.0% to 55.4%. Humidity levels averaged 53.8%, with a range from 33.9% to 72.8%. Temperatures averaged 22.6�C, varying from 18.3�C to 27.3�C.
+In October 2016, Room2 had an average brightness of 60.8%, ranging from 40.9% to 74.9%. Humidity levels averaged 59.5%, with a range from 39.9% to 77.7%. Temperatures averaged 20.7�C, varying from 16.7�C to 23.5�C.
+In October 2016, Room3 had an average brightness of 57.0%, ranging from 44.9% to 71.0%. Humidity levels averaged 51.8%, with a range from 40.2% to 68.2%. Temperatures averaged 21.8�C, varying from 19.4�C to 25.8�C.
+In October 2016, Kitchen had an average brightness of 32.2%, ranging from 22.0% to 49.1%. Humidity levels averaged 54.6%, with a range from 38.6% to 67.4%. Temperatures averaged 20.9�C, varying from 16.1�C to 25.7�C.
+In October 2016, Bathroom had an average brightness of 33.7%, ranging from 21.8% to 46.1%. Humidity levels averaged 48.9%, with a range from 33.8% to 66.2%. Temperatures averaged 23.4�C, varying from 20.9�C to 26.2�C.
+In October 2016, Toilet had an average brightness of 63.4%, ranging from 43.4% to 78.3%. Humidity levels averaged 51.4%, with a range from 36.5% to 66.2%. Temperatures averaged 24.4�C, varying from 20.8�C to 28.8�C.
+In November 2016, the TV was used for an average of 4.3 hours per day consuming approximately 108.5 kWh of energy  The most-played platform was Netflix, while the least-played platform was YouTube.
+In November 2016, the ac consumed approximately 180.8 kWh of energy and operated for an average of 6.1 hours per day.
+In November 2016, the Oven consumed approximately 76.2 kWh of energy and operated for an average of 6.9 hours per day.
+In November 2016, the Fan consumed approximately 103.9 kWh of energy and operated for an average of 5.8 hours per day.
+In November 2016, the Light consumed approximately 155.2 kWh of energy and operated for an average of 7.6 hours per day.
+In November 2016, the Washing Machine consumed approximately 188.2 kWh of energy and operated for an average of 6.3 hours per day.
+In November 2016, Room1 had an average brightness of 56.4%, ranging from 40.1% to 66.5%. Humidity levels averaged 42.3%, with a range from 29.1% to 55.6%. Temperatures averaged 20.9�C, varying from 17.4�C to 23.0�C.
+In November 2016, Room2 had an average brightness of 66.3%, ranging from 48.6% to 77.3%. Humidity levels averaged 40.8%, with a range from 30.8% to 57.9%. Temperatures averaged 20.8�C, varying from 18.8�C to 22.9�C.
+In November 2016, Room3 had an average brightness of 65.5%, ranging from 52.6% to 81.9%. Humidity levels averaged 41.3%, with a range from 26.5% to 60.3%. Temperatures averaged 20.6�C, varying from 18.0�C to 22.8�C.
+In November 2016, Kitchen had an average brightness of 67.3%, ranging from 56.9% to 82.0%. Humidity levels averaged 44.0%, with a range from 30.4% to 56.3%. Temperatures averaged 22.1�C, varying from 19.9�C to 24.4�C.
+In November 2016, Bathroom had an average brightness of 30.5%, ranging from 15.4% to 47.1%. Humidity levels averaged 48.0%, with a range from 36.2% to 63.5%. Temperatures averaged 21.1�C, varying from 18.4�C to 23.8�C.
+In November 2016, Toilet had an average brightness of 34.9%, ranging from 18.3% to 50.0%. Humidity levels averaged 47.8%, with a range from 29.0% to 61.5%. Temperatures averaged 24.5�C, varying from 19.8�C to 26.6�C.
+In December 2016, the TV was used for an average of 3.2 hours per day consuming approximately 88.9 kWh of energy  The most-played platform was Amazon Prime, while the least-played platform was Hulu.
+In December 2016, the ac consumed approximately 93.3 kWh of energy and operated for an average of 3.1 hours per day.
+In December 2016, the Oven consumed approximately 133.2 kWh of energy and operated for an average of 6.7 hours per day.
+In December 2016, the Fan consumed approximately 179.6 kWh of energy and operated for an average of 6.7 hours per day.
+In December 2016, the Light consumed approximately 56.6 kWh of energy and operated for an average of 3.1 hours per day.
+In December 2016, the Washing Machine consumed approximately 72.5 kWh of energy and operated for an average of 5.3 hours per day.
+In December 2016, Room1 had an average brightness of 66.7%, ranging from 47.5% to 85.3%. Humidity levels averaged 53.4%, with a range from 43.3% to 71.6%. Temperatures averaged 21.1�C, varying from 17.1�C to 25.0�C.
+In December 2016, Room2 had an average brightness of 39.9%, ranging from 27.6% to 50.5%. Humidity levels averaged 41.9%, with a range from 23.5% to 60.2%. Temperatures averaged 21.8�C, varying from 19.2�C to 26.4�C.
+In December 2016, Room3 had an average brightness of 62.4%, ranging from 44.5% to 72.9%. Humidity levels averaged 44.3%, with a range from 31.6% to 55.1%. Temperatures averaged 23.5�C, varying from 18.8�C to 27.4�C.
+In December 2016, Kitchen had an average brightness of 60.2%, ranging from 41.2% to 70.8%. Humidity levels averaged 42.2%, with a range from 22.9% to 57.3%. Temperatures averaged 21.4�C, varying from 18.3�C to 24.6�C.
+In December 2016, Bathroom had an average brightness of 35.0%, ranging from 18.0% to 52.6%. Humidity levels averaged 41.3%, with a range from 31.1% to 58.2%. Temperatures averaged 24.1�C, varying from 19.7�C to 28.5�C.
+In December 2016, Toilet had an average brightness of 38.0%, ranging from 24.0% to 52.4%. Humidity levels averaged 52.8%, with a range from 33.7% to 70.2%. Temperatures averaged 20.2�C, varying from 15.4�C to 22.4�C.
+In January 2017, the TV was used for an average of 2.8 hours per day consuming approximately 173.1 kWh of energy  The most-played platform was Amazon Prime, while the least-played platform was YouTube.
+In January 2017, the ac consumed approximately 86.9 kWh of energy and operated for an average of 3.2 hours per day.
+In January 2017, the Oven consumed approximately 150.3 kWh of energy and operated for an average of 6.7 hours per day.
+In January 2017, the Fan consumed approximately 123.1 kWh of energy and operated for an average of 6.0 hours per day.
+In January 2017, the Light consumed approximately 51.6 kWh of energy and operated for an average of 7.6 hours per day.
+In January 2017, the Washing Machine consumed approximately 75.9 kWh of energy and operated for an average of 3.0 hours per day.
+In January 2017, Room1 had an average brightness of 51.4%, ranging from 32.9% to 66.1%. Humidity levels averaged 51.6%, with a range from 35.5% to 68.8%. Temperatures averaged 21.2�C, varying from 16.6�C to 23.8�C.
+In January 2017, Room2 had an average brightness of 33.0%, ranging from 16.4% to 50.2%. Humidity levels averaged 58.9%, with a range from 43.0% to 71.5%. Temperatures averaged 23.5�C, varying from 19.4�C to 27.6�C.
+In January 2017, Room3 had an average brightness of 53.5%, ranging from 40.6% to 64.5%. Humidity levels averaged 42.6%, with a range from 28.7% to 54.4%. Temperatures averaged 20.9�C, varying from 18.7�C to 24.7�C.
+In January 2017, Kitchen had an average brightness of 50.5%, ranging from 34.8% to 66.1%. Humidity levels averaged 46.1%, with a range from 35.2% to 58.2%. Temperatures averaged 21.3�C, varying from 17.5�C to 25.1�C.
+In January 2017, Bathroom had an average brightness of 43.4%, ranging from 24.6% to 54.0%. Humidity levels averaged 55.1%, with a range from 43.5% to 68.2%. Temperatures averaged 23.9�C, varying from 20.5�C to 28.5�C.
+In January 2017, Toilet had an average brightness of 39.2%, ranging from 24.4% to 56.1%. Humidity levels averaged 53.4%, with a range from 41.7% to 66.5%. Temperatures averaged 24.4�C, varying from 20.6�C to 27.0�C.
+In February 2017, the TV was used for an average of 3.0 hours per day consuming approximately 132.7 kWh of energy  The most-played platform was Gaming, while the least-played platform was YouTube.
+In February 2017, the ac consumed approximately 178.9 kWh of energy and operated for an average of 3.9 hours per day.
+In February 2017, the Oven consumed approximately 166.8 kWh of energy and operated for an average of 3.5 hours per day.
+In February 2017, the Fan consumed approximately 121.7 kWh of energy and operated for an average of 6.1 hours per day.
+In February 2017, the Light consumed approximately 189.0 kWh of energy and operated for an average of 4.6 hours per day.
+In February 2017, the Washing Machine consumed approximately 116.0 kWh of energy and operated for an average of 6.2 hours per day.
+In February 2017, Room1 had an average brightness of 44.7%, ranging from 29.6% to 72.2%. Humidity levels averaged 48.0%, with a range from 35.7% to 70.5%. Temperatures averaged 20.2�C, varying from 15.3�C to 27.4�C.
+In February 2017, Room2 had an average brightness of 45.0%, ranging from 26.8% to 62.8%. Humidity levels averaged 57.3%, with a range from 45.2% to 69.4%. Temperatures averaged 22.2�C, varying from 20.1�C to 26.5�C.
+In February 2017, Room3 had an average brightness of 65.9%, ranging from 50.2% to 85.8%. Humidity levels averaged 45.3%, with a range from 29.4% to 62.1%. Temperatures averaged 21.0�C, varying from 17.9�C to 25.6�C.
+In February 2017, Kitchen had an average brightness of 30.4%, ranging from 19.8% to 40.7%. Humidity levels averaged 50.5%, with a range from 30.8% to 62.7%. Temperatures averaged 21.7�C, varying from 18.2�C to 24.9�C.
+In February 2017, Bathroom had an average brightness of 68.2%, ranging from 52.1% to 87.0%. Humidity levels averaged 59.4%, with a range from 47.5% to 78.2%. Temperatures averaged 20.2�C, varying from 17.0�C to 23.3�C.
+In February 2017, Toilet had an average brightness of 69.3%, ranging from 53.4% to 87.1%. Humidity levels averaged 42.8%, with a range from 23.4% to 60.5%. Temperatures averaged 20.2�C, varying from 16.7�C to 23.8�C.

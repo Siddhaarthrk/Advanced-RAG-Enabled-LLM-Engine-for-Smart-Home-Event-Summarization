@@ -1,0 +1,8 @@
+python-dotenv
+sqlalchemy
+langchain_community
+langchain_ollama
+faiss-cpu
+sentence-transformers
+sqlparse
+flask
